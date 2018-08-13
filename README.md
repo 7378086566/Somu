@@ -2,7 +2,7 @@
 Somu's Github
 //1 # what's the average number of fields across all the .csv files?
 
-AvgNoOfFileds.java
+AvgNoOfFields.java
 
 
 //2#create a csv file that shows the word count of every value of every dataset (dataset being a .csv file)
