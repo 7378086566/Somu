@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class AvgNoOfFileds {
+public class AvgNoOfFields {
 	public static void main(String[] args) throws IOException {
 		String directoryPath = args[0];
 		// "C:\\SparkScala\\Java\\src\\com\\files\\";
