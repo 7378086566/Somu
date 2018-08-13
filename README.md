@@ -7,7 +7,7 @@ AvgNoOfFileds.java
 
 //2#create a csv file that shows the word count of every value of every dataset (dataset being a .csv file)
 
-RowsCount.scala
+WordCount.scala
 
 
 //3# what's the total number or rows for the all the .csv files?
