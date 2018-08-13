@@ -2,7 +2,7 @@ package com.practise.spark
 
 import org.apache.spark.sql.SparkSession
 
-object RowsCount {
+object WordCount {
 
   def main(args: Array[String]) {
 
